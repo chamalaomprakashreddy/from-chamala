@@ -13,4 +13,5 @@ I'm glad to share why I enjoy the restaurant! The inviting ambiance, coupled wit
  * Charminar
  * Golconda Fort
  * Shree Jagannath Temple
- 
+
+[MyMedia](https://github.com/chamalaomprakashreddy/from-chamala/blob/main/MyMedia.md)
