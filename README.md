@@ -9,3 +9,7 @@ I'm glad to share why I enjoy the restaurant! The inviting ambiance, coupled wit
  1. Biryani
  2. Fired rice
  3. Curd rice
+
+ * Charminar
+ * Golconda Fort
+ * Shree Jagannath Temple
