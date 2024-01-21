@@ -15,3 +15,13 @@ I'm glad to share why I enjoy the restaurant! The inviting ambiance, coupled wit
  * Shree Jagannath Temple
 
 [MyMedia](https://github.com/chamalaomprakashreddy/from-chamala/blob/main/MyMedia.md)
+
+-------
+# Books Recommenation 
+In this section, I present a curated list of recommendations spanning books, songs, and videos. Each suggestion is accompanied by a brief rationale for why it's worth exploring. The creators behind these works have left a significant impact in their respective fields. Let's dive into a world of captivating stories, mesmerizing melodies, and visually stunning experiences
+| Name | Reason | Author | 
+| ----------- | ----------- | ----------|
+|The God of Small Things | A poignant exploration of family, caste, and societal norms in Kerala. | Arundhati Roy |
+| A Suitable Boy | A sweeping epic set in post-independence India, offering a rich portrayal of characters and culture. | Vikram Seth |
+| The White Tiger | Provides a gripping and darkly humorous look at class struggle and social inequality in contemporary India. | Aravind Adiga |
+| Shantaram | An immersive novel based on the author's experiences in Mumbai, capturing the city's vibrancy and complexities. | Gregory David Roberts |
