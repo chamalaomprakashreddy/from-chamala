@@ -25,3 +25,10 @@ In this section, I present a curated list of recommendations spanning books, son
 | A Suitable Boy | A sweeping epic set in post-independence India, offering a rich portrayal of characters and culture. | Vikram Seth |
 | The White Tiger | Provides a gripping and darkly humorous look at class struggle and social inequality in contemporary India. | Aravind Adiga |
 | Shantaram | An immersive novel based on the author's experiences in Mumbai, capturing the city's vibrancy and complexities. | Gregory David Roberts |
+---------
+# Favorite Quotes
+> *"The world is the great gymnasium where we come to make ourselves strong."*
+> \- *Swami Vivekananda*
+
+> *"If you want to shine like a sun, first burn like a sun."*
+> \- *Apj Abdul Kalam *
