@@ -28,10 +28,10 @@ In this section, I present a curated list of recommendations spanning books, son
 ---------
 # Favorite Quotes
 > *"The world is the great gymnasium where we come to make ourselves strong."*
-> \- *Swami Vivekananda*
+> \- ***Swami Vivekananda***
 
 > *"If you want to shine like a sun, first burn like a sun."*
-> \- *Apj Abdul Kalam *
+> \- ***Apj Abdul Kalam***
 --------
 # Code Fencing: S571661
 ```
