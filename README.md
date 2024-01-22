@@ -33,7 +33,7 @@ In this section, I present a curated list of recommendations spanning books, son
 > *"If you want to shine like a sun, first burn like a sun."*
 > \- *Apj Abdul Kalam *
 --------
-# Code Fencing
+# Code Fencing: S571661
 ```
 In SQL, the SUM command is used to calculate the sum of values in a specific column. It is often used in conjunction with the SELECT statement to retrieve the total sum of a numeric column in a table.
 
