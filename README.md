@@ -34,24 +34,16 @@ In this section, I present a curated list of recommendations spanning books, son
 > \- ***Apj Abdul Kalam***
 --------
 # Code Fencing: S571661
+
+Sum
+Tags: sql, sum
+
+The Sum command in SQL returns the total sum of a numeric column.
+
 ```
-In SQL, the SUM command is used to calculate the sum of values in a specific column. It is often used in conjunction with the SELECT statement to retrieve the total sum of a numeric column in a table.
-
-Here's a basic syntax for using the SUM command:
-SELECT SUM(column_name) AS total_sum
-FROM table_name;
-Explanation:
-
-SUM(column_name): Specifies the column for which you want to calculate the sum.
-AS total_sum: Assigns an alias to the result, making it easier to reference in the output.
-
-Example:
-Let's say you have a table named sales with a column named amount representing the sales amount. You can use the SUM command to find the total sales amount:
-
-SELECT SUM(amount) AS total_sales
-    FROM sales;
-
-This query will return a single value, which is the sum of all values in the `amount` column, labeled as `total_sales`.
+SELECT SUM(column_name)
+FROM table_name
+WHERE condition;
 ```
 [SUM command](https://code.pieces.app/collections/sql)
 
